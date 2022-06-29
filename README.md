@@ -1,6 +1,6 @@
 - @brian-brain
 - Likes neuroscience, more specifically place cells, grid cells and memory
-- Beginner coder
+- Beginner coder in python and matlab
 - Currently learning computational neuroscience and math in general
 
 
